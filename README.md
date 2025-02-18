@@ -1,6 +1,12 @@
-## calci
+# Addition
 
-this code is used to add 2 number
-in python
+1.you can add 2 numbers
+{line - 1 to 6}
 
-# done
+# comperision of 3 number
+
+2.line 7 to 22
+
+# calculator
+
+3.line 24 to 38

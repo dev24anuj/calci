@@ -1,10 +1,10 @@
-#done
+#addition of 2 numbers
 num1= input('enter first number:' )
 num2= input('enter second number:' )
 sum = float(num1) + float(num2)
 print('the sum of {0} and {1} is {2}'.format(num1,num2,sum))
 
-
+# comperision of 3 number 
 num1=input("enter the first number ")
 num2=input("enter the first number ")
 num3=input("enter the first number ")
